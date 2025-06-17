@@ -1,10 +1,12 @@
 fastapi
 uvicorn
-python-multipart
 PyMuPDF
+python-multipart
 Pillow
 numpy
-python-magic
-python-magic-bin
-pydantic
-
+python-json-logger
+opencv-python
+scikit-image
+pytest
+pytest-asyncio
+httpx
